@@ -36,7 +36,8 @@ A brief description of what this project does and who it's for
 <!-- ##  -->
 
 ```
-  SystemChrome.setPreferredOrientations([
+Code DeviceOrientation
+  ➡SystemChrome.setPreferredOrientations([
       DeviceOrientation.landscapeLeft,
       DeviceOrientation.landscapeRight,
     ]);

@@ -55,6 +55,104 @@ Ui Overlay
 ```
 
 
+# What is List and Map Defination?
+
+- A map is a data structure containing unordered collection of key-value pair.
+- List data type is similar to arrays in other programming languages. List is used to representing a collection of objects.
+- Generics Is A Pre Define List data.
+
+## Predefine Methods
+
+Add New Element
+```bash
+void main()
+{
+  List work=['flutter','1' ,true,3];
+  work.add(1);
+  print(work);
+}
+```
+
+add New List
+
+```bash
+  void main()
+{
+  List list =[1,2,3];
+  List work=['flutter','1' ,true,3];
+  work.addAll(list);
+  print(work);
+}
+```
+
+Insert new element on index
+
+```bash
+void main()
+{
+  List work=['flutter','1' ,true,3];
+  work.insert(2, 'dart');
+  print(work);
+}
+```
+
+Insert new list on index
+
+```bash
+  void main()
+{
+  List list =[1,2,3];
+  List work=['flutter','1' ,true,3];
+  work.insert(2, list);
+  print(work);
+}
+```
+remove value 
+
+```bash
+
+ void main()
+ {
+   List work=['flutter','1' ,true,3];
+   work.remove(3);
+   print(work);
+ }
+```
+
+remove index value
+ 
+
+```bash
+ void main()
+ {
+   List work=['flutter','1' ,true,3];
+   work.removeAt(3);
+   print(work);
+ }
+
+```
+
+  remove Last value
+
+```bash
+void main()
+{
+  List work=['flutter','1' ,true,3];
+  work.removeLast();
+  print(work);
+}
+```
+
+remove Range Value
+
+```bash
+void main()
+{
+  List work=['flutter','1' ,true,3];
+  work.removeRange(2,3);
+  print(work);
+}
+```
 
 
 

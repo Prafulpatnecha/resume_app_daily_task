@@ -43,5 +43,26 @@ Code DeviceOrientation
     ]);
 ```
 
+<h2>➡️Ui Overlay </h2>
+<hr>
+<p>
+<a href ="">
+<img src="https://github.com/Prafulpatnecha/resume_app_daily_task/blob/master/Screenshot_20240507_135742.png" width="22%" Height="35%">
+</a>
+</p>
+<hr>
+<!-- ##  -->
+
+```
+Ui Overlay
+  0.1➡SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(statusBarColor: Colors.cyanAccent));
+  1.0➡appBar: AppBar(
+        systemOverlayStyle: const SystemUiOverlayStyle(
+          statusBarColor: Colors.cyanAccent
+        ),
+      ),
+```
+
+
 
 

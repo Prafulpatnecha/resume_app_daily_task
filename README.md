@@ -18,6 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 https://github.com/Prafulpatnecha/resume_app_daily_task/assets/144161200/9cf3741f-a62d-46d0-919f-ee980e04de4d
+https://github.com/Prafulpatnecha/resume_app_daily_task/assets/144161200/34a2260c-10bc-4973-a146-e1a712a5f29e
 
 <h2>➡️Gmail Drower </h2>
 <hr>
@@ -28,7 +29,6 @@ https://github.com/Prafulpatnecha/resume_app_daily_task/assets/144161200/9cf3741
 </a>
 </p>
 <hr>
-https://github.com/Prafulpatnecha/resume_app_daily_task/assets/144161200/34a2260c-10bc-4973-a146-e1a712a5f29e
 <h2>➡️Gmail Drower </h2>
 <hr>
 <p>

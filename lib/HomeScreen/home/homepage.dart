@@ -72,7 +72,6 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
-
   Drawer buildDrawer() {
     return Drawer(
       backgroundColor: drawerColor,
